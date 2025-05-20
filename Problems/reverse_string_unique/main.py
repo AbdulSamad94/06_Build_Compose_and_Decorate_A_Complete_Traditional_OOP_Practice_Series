@@ -58,4 +58,4 @@
 
 
 # c2 = Child2()
-# c2.skills()  # Output: Gardening, Programming (Father class ka method call hoga kyunki wo pehle hai)
+# c2.skills()  # Output:  Gardening, Programming (Father class ka method call hoga kyunki wo pehle hai)
